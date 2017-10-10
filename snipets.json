@@ -262,7 +262,7 @@
         {
             "trigger": "js",
             "description": "JSON.stringify",
-            "text": "JSON.stringify(${1:obj});",
+            "text": "JSON.stringify(${1:obj}, 0, 2)",
             "scope": "javascript",
             "mTime": 1502909594419
         },
